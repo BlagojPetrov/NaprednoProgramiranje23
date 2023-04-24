@@ -1,0 +1,6 @@
+1. Koja komanda pecati nesto na ekran?; a) cin; b) cout; c) P; d) printf;
+2. Koja komanda ovozmozuva korisniko da vnesuva vo programata?; a) cin; b) cout; c) scanf; d) in;
+3. Koj biblojteki se koristat za matematicki funkcii i za pokazuvanje na data i vreme; a) <cstring>; b) <cstdlib>; c) <cmath>; d) <ctime>; 
+4. Kolku pati se garantira deka ke vrti 'do while' loop-o; a) 0; b) beskrajno; c) varirano; d) 1;
+5. Koja struktura NE e loop struktura; a) Repeat; b) Do; c) While; d) For;
+6. Koja e poslednata vrednost na 'x' koga kodot int x; for(x=0;x<10;x++;)?; a) 0; b) 10; c) 1; d) 9;
